@@ -10,6 +10,6 @@ Multi-section landing page project.
 How to manipulate the DOM with javaScript.
 
 ## Project functionalities 
-- Navigation and scroll to anchors from navigation bar. 
+- Navigation and scroll to proper section from navigation bar. 
 - Dynamic Activation.
 - Scrolling Effects.
